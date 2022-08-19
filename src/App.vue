@@ -8,6 +8,7 @@ const t = 2
 <template>
   <div>
     <router-link to="/myCanvas/exp-A">Go to A</router-link>
+    |
     <router-link to="/myCanvas/exp-B">Go to B</router-link>
   </div>
   <div>
